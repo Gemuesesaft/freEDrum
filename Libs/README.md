@@ -1,0 +1,1 @@
+# KiCAD schematic symbols, footprints, and component 3d models
